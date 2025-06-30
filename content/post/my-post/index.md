@@ -1,6 +1,6 @@
 ---
 title: test blog title
-date: 2025-1-30
+date: 2025-01-30
 ---
 
 # 标题
