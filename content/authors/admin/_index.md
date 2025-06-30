@@ -1,29 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 刘鸿
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Hong
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: South China Normal University
+    url: 'https://www.scnu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 简短的个人经历介绍。
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 高分子界面聚合反应模拟方法开发及机理探索
+  - 纳米粒子表面接枝聚合物结构设计与复合物性能优化
+  - 聚合诱导自组装结构及形成机制
+  - 超分子界面聚合动力学模拟研究
+  - 机械互锁高分子材料的性能与设计
 
 education:
   courses:
@@ -42,18 +44,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: weixin
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'hongliu@m.scnu.edu.cn'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
